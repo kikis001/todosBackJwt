@@ -1,0 +1,3 @@
+use("TODOS")
+
+db.tasks.find()
